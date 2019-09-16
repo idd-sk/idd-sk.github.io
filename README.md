@@ -10,7 +10,7 @@ This is my project concept.
     - logo
     - menu
     - search bar
-- Middle section
+- Body
     - brief description
     - how to apply (dropdown)
     - images
@@ -25,4 +25,3 @@ This is my project concept.
     - menu
     - logo 
     - social media 
-    
