@@ -13,12 +13,12 @@ This is my project concept.
 - Body
     - brief description
     - how to apply (dropdown)
-    - images
+    - images (the school)
     - admission requirements (dropdown)
     - sample courses
 - side bar
     - program details
-    - careers
+    - careers 
     - testimonials
 - Footer
     - contact us 
