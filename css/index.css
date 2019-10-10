@@ -84,8 +84,8 @@ body {
 	width: 1350px;
 	height: 480px;
 	background-color: #FEDCA0;
-	margin-left: 5cm;
-	padding: 3.9px;
+	margin-left: 4.9cm;
+	padding: 30px;
 }
 
 .social{
@@ -112,16 +112,59 @@ body {
 
 .experience1 {
 	position: absolute;
-	top: 70%;
-	left: 50%;
+	top: 66%;
+	left: 57%;
 	transform: translate(-50%, -50%);
 	text-align: left;
+	margin: 3px;
 	padding: 10px;
+	background-color: beige;
+	margin-top: 10px;
+	margin-left: 220px;
 }
 
-.work{
+.work {
 	position: absolute;
-	top: 70px;
-	left: 10px;
-	padding: 10px;
+	top: 87%;
+	left: 57%;
+	transform: translate(-50%, -50%);
+	margin: 3px;
+	padding: 6px;
+	margin-left: 20px;
+}
+
+.example {
+	position: absolute;
+	top: 87%;
+	left: 80%;
+	transform: translate(-50%, -50%);
+	margin: 3px;
+	padding: 6px;
+	margin-left: 50px;
+}
+
+.name1 {
+	position: absolute;
+	top: 103%;
+	left: 54%;
+	transform: translate(-50%, -50%);
+	margin: 3px;
+	padding: 6px;
+	margin-left: 50px;
+	text-align: center;
+}
+
+.name2 {
+	position: absolute;
+	top: 103%;
+	left: 78%;
+	transform: translate(-50%, -50%);
+	margin: 3px;
+	padding: 6px;
+	margin-left: 50px;
+	text-align: center;
+}
+
+.experience {
+	margin-top: 40px;
 }
