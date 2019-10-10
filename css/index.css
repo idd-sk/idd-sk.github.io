@@ -110,19 +110,18 @@ body {
 	font-size: 24px;
 }
 
-.experience1{
-	width: 100px;
-	height: 100px;
-	background-color: #FFD7C2;
+.experience1 {
 	position: absolute;
-	bottom: 10px;
-	right: 10px;
+	top: 70%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	text-align: left;
+	padding: 10px;
 }
 
-.experience{
-	margin: 0;
+.work{
 	position: absolute;
-    top: 50%;
-    left: 50%;
-	margin-right: -50%;
+	top: 70px;
+	left: 10px;
+	padding: 10px;
 }
